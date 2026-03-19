@@ -124,7 +124,7 @@ Systematic cleaning addressing: deduplication, date standardisation, missing val
 
 ## About
 
-**Rupesh Jha** — Data Analyst | BSc Mathematics | MBA (International Business)
+**Rupesh Jha** — Data Analyst | MSc Mathematics | MBA (International Business)
 
 Methodology developed during a real client engagement. Data simulated to match original database structure for portfolio purposes.
 
