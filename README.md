@@ -146,8 +146,4 @@ python retail_membership_analysis.py
 - Equihua, J.P. et al. (2023). Modelling customer churn for the 
   retail industry. arXiv:2304.00575
 
-**Portfolio Optimisation & Monte Carlo:**
-- Shaw, W.T. (2010). Monte Carlo Portfolio Optimization for General 
-  Investor Risk-Return Objectives. arXiv:1008.3718
-- Geometric Brownian Motion price simulation methodology per 
-  IEEE Monte Carlo Simulation Prediction of Stock Prices (2022)
+
