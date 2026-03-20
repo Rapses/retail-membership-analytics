@@ -136,3 +136,18 @@ Methodology developed during a real client engagement. Data simulated to match o
 pip install pandas numpy matplotlib seaborn scikit-learn
 python retail_membership_analysis.py
 ```
+## Academic References
+
+### Project methodology informed by:
+
+**Churn Prediction:**
+- Maan, J. et al. (2023). Customer Churn Prediction Model using 
+  Explainable Machine Learning. arXiv:2303.00960
+- Equihua, J.P. et al. (2023). Modelling customer churn for the 
+  retail industry. arXiv:2304.00575
+
+**Portfolio Optimisation & Monte Carlo:**
+- Shaw, W.T. (2010). Monte Carlo Portfolio Optimization for General 
+  Investor Risk-Return Objectives. arXiv:1008.3718
+- Geometric Brownian Motion price simulation methodology per 
+  IEEE Monte Carlo Simulation Prediction of Stock Prices (2022)
